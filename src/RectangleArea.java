@@ -13,7 +13,8 @@ class Main{
     }
 }
 public class RectangleArea {
-    //public static void getData () throws IOException {
+    //public static void getData () throws IOException
+    // editing some stuff{
          float width;
          float height;
          float area;
